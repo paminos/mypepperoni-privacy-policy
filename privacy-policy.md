@@ -1,7 +1,5 @@
 # Privacy Policy for MyPepperoni
 
-**Last Updated: [Ημερομηνία]**
-
 MyPepperoni ("we", "our", "us") respects your privacy. This document explains how we collect, use, and protect your personal information when using our mobile application.
 
 ## Information We Collect
